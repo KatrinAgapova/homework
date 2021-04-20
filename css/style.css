@@ -1,15 +1,16 @@
 
 body {
-    background-color: #DEB887;
-    }
+    background: no-repeat;
+    background-image: url("../img/min.jpg");
+    background-size: 100%;
+}
 
 h1 {
     font-size: 150px;
     text-align: center;
-    text-anchor: #8B0000;
 }
 
 .one {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font: 100px;
+    font-size: 20px;
 }
